@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohamed Cherkaoui (@chermed)
 - 👀 I’m interested in DevOps and Cloud
-- 🌱 I’m currently learning ...
+- 🌱 I’m fully certified on kubernetes (CKAD, CKA, CKS)
 - 💞️ I’m looking to collaborate on GCP
 - 📫 You can reach me on linkedin (https://www.linkedin.com/in/mohamedcherkaoui/)
 
